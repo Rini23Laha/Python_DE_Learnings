@@ -49,3 +49,19 @@ What is Data Type
 4. Boolean
 
 
+##### Second Class ####
+
+1. Why do we need print statement
+2. How can we print line number for debugging 
+3. What is escape squence and how to use it
+4. What is String formatting
+
+
+1. Answer : - for debugging 
+print("lenght of the land is ",length_of_land)
+
+
+4. String formatting 
+f string , .format method 
+
+Here we have introduced loguru whenever we use any library in the code we should create requirement.txt 
