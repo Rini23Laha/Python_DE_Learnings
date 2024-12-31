@@ -82,5 +82,24 @@ like sum , sub ,mul , divide, mod , floor division, power , Absolute
 
 ## what are type of typecasting 
 
-# 1. explicit typecasting -- as a developer we are casting 
-# 2. Implicit typecasting -- when python internally does it 
+1. explicit typecasting -- as a developer we are casting 
+2. Implicit typecasting -- when python internally does it 
+
+###### Lesson 4  ##########
+
+IF ELSE and ELIF
+
+1. To check if output is expected or not.
+2. Check whether variable or list is not empty -- discussed in if_else_lecture
+3. Check if dataframe is not empty -- dataframe is part of pandas or pyspark we will read this later 
+4. Backdated job run -- for instance we need to run the job of backdated i.e for previous date in that case we have to use it 
+5. To raise some error -- we have to use logger.info and use under if else condition to get the error
+
+conditional operator 
++,-,*,/
+1. less than
+2. greater than
+3. equal to 
+4. less than or equal to 
+5. greater than or equal to
+6. not equals to
