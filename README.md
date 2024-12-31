@@ -49,7 +49,7 @@ What is Data Type
 4. Boolean
 
 
-##### Second Class ####
+##### Lecture 2 ####
 
 1. Why do we need print statement
 2. How can we print line number for debugging 
@@ -65,3 +65,22 @@ print("lenght of the land is ",length_of_land)
 f string , .format method 
 
 Here we have introduced loguru whenever we use any library in the code we should create requirement.txt 
+
+
+##### Lecture 3 ####
+
+1. What are the python operators 
+2. How BODMAS rule works here 
+3. What is the floor and CIEL in python 
+4. What is modulo operator 
+5. What are the types of type casting 
+6. How can i take input from user
+
+what is the operators?
+operation --> that we are going to perform on any numbers
+like sum , sub ,mul , divide, mod , floor division, power , Absolute
+
+## what are type of typecasting 
+
+# 1. explicit typecasting -- as a developer we are casting 
+# 2. Implicit typecasting -- when python internally does it 

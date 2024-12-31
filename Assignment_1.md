@@ -1,3 +1,5 @@
+###### lecture 1 questions #######
+
 Q1. Define a variable of all the labours and print the name of each labour.
 Condition:-
     Labour names are:- Mahesh, Mithilesh,Ramesh, Sumesh
