@@ -103,3 +103,28 @@ conditional operator
 4. less than or equal to 
 5. greater than or equal to
 6. not equals to
+
+###### Lesson 5   ##########
+
+#####  MOST IMPORTANT CONCEPT IN PYTHON ######
+
+Topic to cover 
+1. what is list and how to create it 
+2. What is list ?
+3. What is multidimensional list ?
+4. How to access data from the list ?
+5. Methods to access the data from list ?
+6. what is negative indexing 
+
+list is the collection of same or different datatype 
+
+It is always stored inside square bracker [] like ['a',1,2.5,-9,"hello",True]
+any kind of data can be stored in list of any datatype 
+As we discussed everything is run inside RAM
+Data is stored inside continous memeory inside the RAM 
+labour_table=["Ramesh","Suresh","kim","sohn"]
+these data will be stored inside the memory in continous manner in python we have 0 based indexing 
+Ramesh index[0] i.e = labour_table[0]
+
+
+Common error we get : List index out of range generally we get if list is empty
