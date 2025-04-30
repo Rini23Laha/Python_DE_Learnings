@@ -49,3 +49,82 @@ What is Data Type
 4. Boolean
 
 
+##### Lecture 2 ####
+
+1. Why do we need print statement
+2. How can we print line number for debugging 
+3. What is escape squence and how to use it
+4. What is String formatting
+
+
+1. Answer : - for debugging 
+print("lenght of the land is ",length_of_land)
+
+
+4. String formatting 
+f string , .format method 
+
+Here we have introduced loguru whenever we use any library in the code we should create requirement.txt 
+
+
+##### Lecture 3 ####
+
+1. What are the python operators 
+2. How BODMAS rule works here 
+3. What is the floor and CIEL in python 
+4. What is modulo operator 
+5. What are the types of type casting 
+6. How can i take input from user
+
+what is the operators?
+operation --> that we are going to perform on any numbers
+like sum , sub ,mul , divide, mod , floor division, power , Absolute
+
+## what are type of typecasting 
+
+1. explicit typecasting -- as a developer we are casting 
+2. Implicit typecasting -- when python internally does it 
+
+###### Lesson 4  ##########
+
+IF ELSE and ELIF
+
+1. To check if output is expected or not.
+2. Check whether variable or list is not empty -- discussed in if_else_lecture
+3. Check if dataframe is not empty -- dataframe is part of pandas or pyspark we will read this later 
+4. Backdated job run -- for instance we need to run the job of backdated i.e for previous date in that case we have to use it 
+5. To raise some error -- we have to use logger.info and use under if else condition to get the error
+
+conditional operator 
++,-,*,/
+1. less than
+2. greater than
+3. equal to 
+4. less than or equal to 
+5. greater than or equal to
+6. not equals to
+
+###### Lesson 5   ##########
+
+#####  MOST IMPORTANT CONCEPT IN PYTHON ######
+
+Topic to cover 
+1. what is list and how to create it 
+2. What is list ?
+3. What is multidimensional list ?
+4. How to access data from the list ?
+5. Methods to access the data from list ?
+6. what is negative indexing 
+
+list is the collection of same or different datatype 
+
+It is always stored inside square bracker [] like ['a',1,2.5,-9,"hello",True]
+any kind of data can be stored in list of any datatype 
+As we discussed everything is run inside RAM
+Data is stored inside continous memeory inside the RAM 
+labour_table=["Ramesh","Suresh","kim","sohn"]
+these data will be stored inside the memory in continous manner in python we have 0 based indexing 
+Ramesh index[0] i.e = labour_table[0]
+
+
+Common error we get : List index out of range generally we get if list is empty
